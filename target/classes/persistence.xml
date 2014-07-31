@@ -1,0 +1,7 @@
+<persistence xmlns="http://java.sun.com/xml/ns/persistence"
+             version="1.0">
+    <persistence-unit name="organizer">
+        <class>com.akit.congnitivesite.domain.User</class>
+        <class>com.akit.congnitivesite.domain.Role</class>
+    </persistence-unit>
+</persistence>
